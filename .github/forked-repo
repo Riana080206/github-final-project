@@ -1,4 +1,4 @@
-curl https://api.github.com/repos/Riana080206/mcino-Introduction-to-Git-and-GitHub
+curl https://github.com/Riana080206/github-final-project/blob/main/.github/forked-repo
 {
   "fork": true,
   "parent": {
